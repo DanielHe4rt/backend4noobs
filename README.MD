@@ -37,7 +37,7 @@ Se você tem dúvidas de como começar a programar, entender nomeclaturas e até
   - [Conhecimentos básicos sobre Redes](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
 - Desenvolvendo Desenvolvedores
   - [Códigos HTTP](docs/3-desenvolvimento/1-http.md)
-  - [Tipos de Requisição](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+  - [Tipos de Requisição](docs/3-desenvolvimento/2-requests.md)
   - [Banco de dados Relacionais x Não Relacionais](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
   - [Controle de Versão (GIT)](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
 - Conhecimento sobre API's
