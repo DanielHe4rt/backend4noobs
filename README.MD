@@ -10,10 +10,7 @@
 
 <p align="center">
   <h2 align="center">Backend4Noobs</h2>
-
-  <h1 align="center"><img src="../.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
-  
-  
+  <h1 align="center"><img src="./.github/logo.png" alt="Imagem da linguagem" width="120"></h1>  
 </p>
     
  <!-- ABOUT THE PROJECT -->
@@ -64,6 +61,8 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Daniel Reis** - Back-end Engineer and He4rt Developers Leader - [@danielhe4rt](https://twitter.com/danielhe4rt)
+
+- **Nicolas Pereira** - Full-stack Engineer - [@devnic_](https://twitter.com/devnic_)
 
 ---
 
