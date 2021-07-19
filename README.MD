@@ -26,7 +26,7 @@ Se você tem dúvidas de como começar a programar, entender nomeclaturas e até
   - [Como a Internet funciona](docs/1-fundamentos/1-interne-work.md)
   - [O que é HTTP](docs/1-fundamentos/3-httpBasico.md)
   - [Como navegadores funcionam](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
-  - [Como funciona o DNS (domain name service)](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+  - [Como funciona o DNS (domain name service)](docs/1-fundamentos/5-dns-works.md)
   - [Qual a finalidade dos hosts?](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
 - Conhecimentos gerais de Sistemas Operacionais
   - [Como o S.O funciona](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
