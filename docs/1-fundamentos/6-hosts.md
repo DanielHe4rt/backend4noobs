@@ -8,18 +8,18 @@
 
 
 ## Entendendo o que é um host.
-O host ou seu serviço de hospedagem é todo ou qualquer computador ligado a rede que possua um IP e dominio definido, sua responsabilidade é oferecer recursos e informações par os usuários.
+O host ou seu serviço de hospedagem é todo ou qualquer computador ligado a rede que possua um IP e domínio definido, sua responsabilidade é oferecer recursos e informações para os usuários.
 
 Para você colocar um sistema ou site na web é necessário hospedar esse serviço em algum lugar, o host é exatamente o servidor onde você vai hospedar o seu sistema. 
 
 
 É graças ao host/serviço de hospedagem que é possivel você navegar na internet e acessar sites, quando você acessa um site você está acessando algum computador em algum lugar do mundo que está te oferecendo os arquivos necessários para mostrar o conteúdo na sua tela.
 
-Dentre os principais serviços de hospagens podemos citar empresas como: Heroku, Digital Ocean, Amazon Web Server, Microsoft Azure e Google Cloud Plataform.
+Dentre os principais serviços de hospedagens podemos citar empresas como: Heroku, Digital Ocean, Amazon Web Server, Microsoft Azure e Google Cloud Plataform.
 
 ## Como funciona um serviço de hospedagem. 
 
-Toda vez que queremos acessar um site nós digitamos a URL de um site em nosso navegador, a partir desse momento o nosso navegador cria uma conexão, converte o dominio digitado para o endereço de IP, o servidor recebe essa requisição e retorna para o navegador todos os arquivos necessários para mostrar o conteúdo em sua tela.
+Toda vez que queremos acessar um site nós digitamos a URL de um site em nosso navegador, a partir desse momento o nosso navegador cria uma conexão, converte o domínio digitado para o endereço de IP, o servidor recebe essa requisição e retorna para o navegador todos os arquivos necessários para mostrar o conteúdo em sua tela.
 
 ## Tipos de serviços.
 
@@ -31,12 +31,12 @@ Cada sistema possui a necessidade de tipos de serviços diferentes, por exemplo,
 O Armazenamento de dados está relacionado aos arquivos que o seu site/sistema vai armazenar, como fotos de usuários, arquivos, midias e afins.
 
 ### Taxa de transferência
-Outro serviço importante e que devemos nos atendar é relacionado a taxa de trasnferência da hospedagem, a taxa de transferência é a quantidade de dados que seu servidor transmite para as requisições. 
+Outro serviço importante e que devemos nos atendar é relacionado a taxa de transferência da hospedagem, a taxa de transferência é a quantidade de dados que seu servidor transmite para as requisições. 
 Quando você precisa transferir muitos dados como imagens, textos, videos e afins é interessante que seu servidor tenha uma taxa de transferência alta.
 
 
 ### Banco de dados
-Alguns serviços de hospedagens fornece banco de dados integrado, é importante ver a necessidade para o seu sistema, pois as informações gravadas no seu banco de dados são de extrema importância. 
+Alguns serviços de hospedagens fornecem banco de dados integrado, é importante ver a necessidade para o seu sistema, pois as informações gravadas no seu banco de dados são de extrema importância. 
 Veja o custo mensal, quantas conexões simultâneas são permitidas e afins.
 
 ## Tipo de hosts/hospedagens.
