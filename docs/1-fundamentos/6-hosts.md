@@ -23,9 +23,21 @@ Toda vez que queremos acessar um site nós digitamos a URL de um site em nosso n
 
 ## Tipos de serviços.
 
-Cada sistema possui a necessidade de tipos de serviços diferentes, por exemplo, o site de uma empresa precisa de menos **espaço de armazenamento de dados** do que uma rede social, logo os serviços de hospedagem conseguem oferecer diversos tipos de servidores com diferentes configurações para atender a melhor necessidade de cada site/sistemas. 
+Ao contratar uma hospedagem é necessário se atentar a algumas configurações como por exemplo.
 
-Outro serviço importante e que devemos nos atendar é relacionado a taxa de **trasnferência da hospedagem**, a taxa de transferência é a quantidade de dados que seu servidor transmite para as requisições. 
+
+### Armazenamento de Dados
+Cada sistema possui a necessidade de tipos de serviços diferentes, por exemplo, o site de uma empresa precisa de menos espaço de armazenamento de dados do que uma rede social, logo os serviços de hospedagem conseguem oferecer diversos tipos de servidores com diferentes configurações para atender a melhor necessidade de cada site/sistemas. 
+O Armazenamento de dados está relacionado aos arquivos que o seu site/sistema vai armazenar, como fotos de usuários, arquivos, midias e afins.
+
+### Taxa de transferência
+Outro serviço importante e que devemos nos atendar é relacionado a taxa de trasnferência da hospedagem, a taxa de transferência é a quantidade de dados que seu servidor transmite para as requisições. 
+Quando você precisa transferir muitos dados como imagens, textos, videos e afins é interessante que seu servidor tenha uma taxa de transferência alta.
+
+
+### Banco de dados
+Alguns serviços de hospedagens fornece banco de dados integrado, é importante ver a necessidade para o seu sistema, pois as informações gravadas no seu banco de dados são de extrema importância. 
+Veja o custo mensal, quantas conexões simultâneas são permitidas e afins.
 
 ## Tipo de hosts/hospedagens.
 
