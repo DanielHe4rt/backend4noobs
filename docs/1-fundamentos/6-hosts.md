@@ -27,7 +27,7 @@ Cada sistema possui a necessidade de tipos de serviços diferentes, por exemplo,
 
 Outro serviço importante e que devemos nos atendar é relacionado a taxa de **trasnferência da hospedagem**, a taxa de transferência é a quantidade de dados que seu servidor transmite para as requisições. 
 
-## Tipo de hosts.
+## Tipo de hosts/hospedagens.
 
 ### Hospedagem gratuita.
 
