@@ -30,7 +30,7 @@ Se você tem dúvidas de como começar a programar, entender nomeclaturas e até
   - [Qual a finalidade dos hosts?](docs/1-fundamentos/6-hosts.md)
 - Conhecimentos gerais de Sistemas Operacionais
   - [Como o S.O funciona](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
-  - [Por quê o Terminal é seu BFF](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+  - [Por quê o Terminal é seu BFF](docs/2-sistemas-operacionais/2-terminal-bff.md)
   - [Comandos básicos para o Terminal](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
   - [Conhecimentos básicos sobre Redes](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
 - Desenvolvendo Desenvolvedores
