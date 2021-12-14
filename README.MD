@@ -10,10 +10,7 @@
 
 <p align="center">
   <h2 align="center">Backend4Noobs</h2>
-
-  <h1 align="center"><img src="../.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
-  
-  
+  <h1 align="center"><img src="./.github/logo.png" alt="Imagem da linguagem" width="120"></h1>  
 </p>
     
  <!-- ABOUT THE PROJECT -->
@@ -29,7 +26,7 @@ Se você tem dúvidas de como começar a programar, entender nomeclaturas e até
   - [Como a Internet funciona](docs/1-fundamentos/2-internet-work.md)
   - [O que é HTTP](docs/1-fundamentos/3-httpBasico.md)
   - [Como navegadores funcionam](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
-  - [Como funciona o DNS (domain name service)](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+  - [Como funciona o DNS (domain name service)](docs/1-fundamentos/5-dns-works.md)
   - [Qual a finalidade dos hosts?](docs/1-fundamentos/6-hosts.md)
 - Conhecimentos gerais de Sistemas Operacionais
   - [Como o S.O funciona](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
@@ -64,6 +61,8 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Daniel Reis** - Back-end Engineer and He4rt Developers Leader - [@danielhe4rt](https://twitter.com/danielhe4rt)
+
+- **Nicolas Pereira** - Full-stack Engineer - [@devnic_](https://twitter.com/devnic_)
 
 ---
 
