@@ -30,7 +30,7 @@ Se você tem dúvidas de como começar a programar, entender nomeclaturas e até
   - [O que é HTTP](docs/1-fundamentos/3-httpBasico.md)
   - [Como navegadores funcionam](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
   - [Como funciona o DNS (domain name service)](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
-  - [Qual a finalidade dos hosts?](docs/3-lsp.md)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+  - [Qual a finalidade dos hosts?](docs/1-fundamentos/6-hosts.md)
 - Conhecimentos gerais de Sistemas Operacionais
   - [Como o S.O funciona](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
   - [Por quê o Terminal é seu BFF](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
