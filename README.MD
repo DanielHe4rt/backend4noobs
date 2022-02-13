@@ -41,7 +41,7 @@ Se você tem dúvidas de como começar a programar, entender nomeclaturas e até
 - Conhecimento sobre API's
   - [O que é JSON e por quê é tão importante](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
   - [Entendendo e abstraindo endpoints](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
-  - [Autenticação: OAuth](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+  - [Autenticação: OAuth](docs/4-apis/3-oauth.md)
   - [Autenticação: JWT](#)<img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
 
   
